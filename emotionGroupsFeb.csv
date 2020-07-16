@@ -1,0 +1,382 @@
+,emotion_str,country,tweet,name,alpha-3,country-code,Country,Users (in million),Source,Total Tweets,tweetpm,date
+0,anger,Australia,72,Australia,AUS,36,Australia,4.1,Statista,22578.0,17.5609756097561,February
+1,anger,Belgium,6,Belgium,BEL,56,Belgium,1.0,,2268.0,6.0,February
+2,anger,Canada,96,Canada,CAN,124,Canada,8.15,Statista,38382.0,11.779141104294478,February
+3,anger,China,126,China,CHN,156,China,2.0,NY Times,7482.0,63.0,February
+4,anger,France,12,France,FRA,250,France,8.9,Statista,3192.0,1.348314606741573,February
+5,anger,Germany,24,Germany,DEU,276,Germany,6.1,Statista,4140.0,3.934426229508197,February
+6,anger,Ghana,54,Ghana,GHA,288,Ghana,2.0,,6312.0,27.0,February
+7,anger,Hong Kong,18,Hong Kong,HKG,344,Hong Kong,1.5,,2994.0,12.0,February
+8,anger,India,228,India,IND,356,India,13.15,Statista,90480.0,17.338403041825096,February
+9,anger,Indonesia,24,Indonesia,IDN,360,Indonesia,11.8,,3954.0,2.0338983050847457,February
+10,anger,Ireland,42,Ireland,IRL,372,Ireland,1.5,,12138.0,28.0,February
+11,anger,Italy,30,Italy,ITA,380,Italy,2.5,,3822.0,12.0,February
+12,anger,Japan,6,Japan,JPN,392,Japan,48.45,Statista,4314.0,0.12383900928792568,February
+13,anger,Kenya,30,Kenya,KEN,404,Kenya,8.2,google,9228.0,3.658536585365854,February
+14,anger,Malaysia,48,Malaysia,MYS,458,Malaysia,3.9,Statista,6930.0,12.307692307692308,February
+15,anger,Mexico,18,Mexico,MEX,484,Mexico,25.7,,1746.0,0.7003891050583658,February
+16,anger,New Zealand,12,New Zealand,NZL,554,New Zealand,0.9,google,4464.0,13.333333333333332,February
+17,anger,Nigeria,234,Nigeria,NGA,566,Nigeria,8.4,,38400.0,27.857142857142858,February
+18,anger,Pakistan,30,Pakistan,PAK,586,Pakistan,1.26,google,8358.0,23.80952380952381,February
+19,anger,Republic of Korea,18,Republic of Korea,KOR,410,Republic of Korea,6.05,Statista,1848.0,2.9752066115702482,February
+20,anger,Republic of the Philippines,96,Republic of the Philippines,PHL,608,Republic of the Philippines,7.15,Statista,11472.0,13.426573426573427,February
+21,anger,Singapore,36,Singapore,SGP,702,Singapore,1.3,,3246.0,27.69230769230769,February
+22,anger,South Africa,78,South Africa,ZAF,710,South Africa,8.5,Business Tech,27030.0,9.176470588235293,February
+23,anger,Spain,24,Spain,ESP,724,Spain,8.4,Statista,4080.0,2.857142857142857,February
+24,anger,Sweden,12,Sweden,SWE,752,Sweden,2.0,,1422.0,6.0,February
+25,anger,Switzerland,6,Switzerland,CHE,756,Switzerland,0.8,Digital report switzerland,1902.0,7.5,February
+26,anger,Thailand,18,Thailand,THA,764,Thailand,7.35,Statista,2736.0,2.4489795918367347,February
+27,anger,The Netherlands,24,The Netherlands,NLD,528,The Netherlands,2.8,,2970.0,8.571428571428571,February
+28,anger,Turkey,12,Turkey,TUR,792,Turkey,13.65,Statista,1134.0,0.8791208791208791,February
+29,anger,Uganda,12,Uganda,UGA,800,,,,,,February
+30,anger,United Arab Emirates,18,United Arab Emirates,ARE,784,United Arab Emirates,5.21,,4032.0,3.45489443378119,February
+31,anger,United Kingdom,300,United Kingdom,GBR,826,United Kingdom,17.75,Statista,139284.0,16.901408450704224,February
+32,anger,United States,1992,United States,USA,840,United States,64.2,Statista,454626.0,31.02803738317757,February
+33,boredom,Australia,24,Australia,AUS,36,Australia,4.1,Statista,22578.0,5.853658536585367,February
+34,boredom,Belgium,6,Belgium,BEL,56,Belgium,1.0,,2268.0,6.0,February
+35,boredom,Brazil,6,Brazil,BRA,76,Brazil,14.35,Statista,1734.0,0.4181184668989547,February
+36,boredom,Canada,60,Canada,CAN,124,Canada,8.15,Statista,38382.0,7.361963190184048,February
+37,boredom,China,48,China,CHN,156,China,2.0,NY Times,7482.0,24.0,February
+38,boredom,France,12,France,FRA,250,France,8.9,Statista,3192.0,1.348314606741573,February
+39,boredom,Ghana,12,Ghana,GHA,288,Ghana,2.0,,6312.0,6.0,February
+40,boredom,Hong Kong,30,Hong Kong,HKG,344,Hong Kong,1.5,,2994.0,20.0,February
+41,boredom,India,12,India,IND,356,India,13.15,Statista,90480.0,0.9125475285171103,February
+42,boredom,Indonesia,18,Indonesia,IDN,360,Indonesia,11.8,,3954.0,1.5254237288135593,February
+43,boredom,Ireland,18,Ireland,IRL,372,Ireland,1.5,,12138.0,12.0,February
+44,boredom,Italy,6,Italy,ITA,380,Italy,2.5,,3822.0,2.4,February
+45,boredom,Japan,24,Japan,JPN,392,Japan,48.45,Statista,4314.0,0.49535603715170273,February
+46,boredom,Kenya,18,Kenya,KEN,404,Kenya,8.2,google,9228.0,2.1951219512195124,February
+47,boredom,Malaysia,48,Malaysia,MYS,458,Malaysia,3.9,Statista,6930.0,12.307692307692308,February
+48,boredom,Mexico,6,Mexico,MEX,484,Mexico,25.7,,1746.0,0.23346303501945526,February
+49,boredom,New Zealand,6,New Zealand,NZL,554,New Zealand,0.9,google,4464.0,6.666666666666666,February
+50,boredom,Nigeria,114,Nigeria,NGA,566,Nigeria,8.4,,38400.0,13.571428571428571,February
+51,boredom,Pakistan,18,Pakistan,PAK,586,Pakistan,1.26,google,8358.0,14.285714285714286,February
+52,boredom,Republic of the Philippines,42,Republic of the Philippines,PHL,608,Republic of the Philippines,7.15,Statista,11472.0,5.874125874125874,February
+53,boredom,Singapore,12,Singapore,SGP,702,Singapore,1.3,,3246.0,9.23076923076923,February
+54,boredom,South Africa,54,South Africa,ZAF,710,South Africa,8.5,Business Tech,27030.0,6.352941176470588,February
+55,boredom,Spain,12,Spain,ESP,724,Spain,8.4,Statista,4080.0,1.4285714285714286,February
+56,boredom,Sri Lanka,6,Sri Lanka,LKA,144,Sri Lanka,0.5,,1698.0,12.0,February
+57,boredom,Sweden,6,Sweden,SWE,752,Sweden,2.0,,1422.0,3.0,February
+58,boredom,Switzerland,6,Switzerland,CHE,756,Switzerland,0.8,Digital report switzerland,1902.0,7.5,February
+59,boredom,Uganda,6,Uganda,UGA,800,,,,,,February
+60,boredom,United Arab Emirates,18,United Arab Emirates,ARE,784,United Arab Emirates,5.21,,4032.0,3.45489443378119,February
+61,boredom,United Kingdom,132,United Kingdom,GBR,826,United Kingdom,17.75,Statista,139284.0,7.436619718309859,February
+62,boredom,United States,708,United States,USA,840,United States,64.2,Statista,454626.0,11.028037383177569,February
+63,depressed,Australia,144,Australia,AUS,36,Australia,4.1,Statista,22578.0,35.1219512195122,February
+64,depressed,Belgium,36,Belgium,BEL,56,Belgium,1.0,,2268.0,36.0,February
+65,depressed,Brazil,6,Brazil,BRA,76,Brazil,14.35,Statista,1734.0,0.4181184668989547,February
+66,depressed,Canada,240,Canada,CAN,124,Canada,8.15,Statista,38382.0,29.447852760736193,February
+67,depressed,China,492,China,CHN,156,China,2.0,NY Times,7482.0,246.0,February
+68,depressed,France,12,France,FRA,250,France,8.9,Statista,3192.0,1.348314606741573,February
+69,depressed,Germany,18,Germany,DEU,276,Germany,6.1,Statista,4140.0,2.9508196721311477,February
+70,depressed,Ghana,24,Ghana,GHA,288,Ghana,2.0,,6312.0,12.0,February
+71,depressed,Hong Kong,48,Hong Kong,HKG,344,Hong Kong,1.5,,2994.0,32.0,February
+72,depressed,India,306,India,IND,356,India,13.15,Statista,90480.0,23.269961977186313,February
+73,depressed,Indonesia,66,Indonesia,IDN,360,Indonesia,11.8,,3954.0,5.59322033898305,February
+74,depressed,Ireland,42,Ireland,IRL,372,Ireland,1.5,,12138.0,28.0,February
+75,depressed,Italy,18,Italy,ITA,380,Italy,2.5,,3822.0,7.2,February
+76,depressed,Japan,36,Japan,JPN,392,Japan,48.45,Statista,4314.0,0.7430340557275541,February
+77,depressed,Kenya,24,Kenya,KEN,404,Kenya,8.2,google,9228.0,2.9268292682926833,February
+78,depressed,Kingdom of Saudi Arabia,18,Kingdom of Saudi Arabia,SAU,682,Kingdom of Saudi Arabia,15.0,Statista,1404.0,1.2,February
+79,depressed,Malaysia,144,Malaysia,MYS,458,Malaysia,3.9,Statista,6930.0,36.92307692307693,February
+80,depressed,Mexico,12,Mexico,MEX,484,Mexico,25.7,,1746.0,0.4669260700389105,February
+81,depressed,New Zealand,54,New Zealand,NZL,554,New Zealand,0.9,google,4464.0,60.0,February
+82,depressed,Nigeria,192,Nigeria,NGA,566,Nigeria,8.4,,38400.0,22.857142857142858,February
+83,depressed,Pakistan,48,Pakistan,PAK,586,Pakistan,1.26,google,8358.0,38.095238095238095,February
+84,depressed,Republic of Korea,18,Republic of Korea,KOR,410,Republic of Korea,6.05,Statista,1848.0,2.9752066115702482,February
+85,depressed,Republic of the Philippines,114,Republic of the Philippines,PHL,608,Republic of the Philippines,7.15,Statista,11472.0,15.944055944055943,February
+86,depressed,Singapore,84,Singapore,SGP,702,Singapore,1.3,,3246.0,64.61538461538461,February
+87,depressed,South Africa,66,South Africa,ZAF,710,South Africa,8.5,Business Tech,27030.0,7.764705882352941,February
+88,depressed,Spain,18,Spain,ESP,724,Spain,8.4,Statista,4080.0,2.142857142857143,February
+89,depressed,Sri Lanka,18,Sri Lanka,LKA,144,Sri Lanka,0.5,,1698.0,36.0,February
+90,depressed,Sweden,24,Sweden,SWE,752,Sweden,2.0,,1422.0,12.0,February
+91,depressed,Switzerland,12,Switzerland,CHE,756,Switzerland,0.8,Digital report switzerland,1902.0,15.0,February
+92,depressed,Thailand,72,Thailand,THA,764,Thailand,7.35,Statista,2736.0,9.795918367346939,February
+93,depressed,The Netherlands,18,The Netherlands,NLD,528,The Netherlands,2.8,,2970.0,6.428571428571429,February
+94,depressed,Uganda,42,Uganda,UGA,800,,,,,,February
+95,depressed,United Arab Emirates,36,United Arab Emirates,ARE,784,United Arab Emirates,5.21,,4032.0,6.90978886756238,February
+96,depressed,United Kingdom,642,United Kingdom,GBR,826,United Kingdom,17.75,Statista,139284.0,36.16901408450704,February
+97,depressed,United States,2496,United States,USA,840,United States,64.2,Statista,454626.0,38.87850467289719,February
+98,empty,Australia,144,Australia,AUS,36,Australia,4.1,Statista,22578.0,35.1219512195122,February
+99,empty,Belgium,6,Belgium,BEL,56,Belgium,1.0,,2268.0,6.0,February
+100,empty,Canada,258,Canada,CAN,124,Canada,8.15,Statista,38382.0,31.65644171779141,February
+101,empty,China,96,China,CHN,156,China,2.0,NY Times,7482.0,48.0,February
+102,empty,France,30,France,FRA,250,France,8.9,Statista,3192.0,3.3707865168539324,February
+103,empty,Germany,48,Germany,DEU,276,Germany,6.1,Statista,4140.0,7.868852459016394,February
+104,empty,Ghana,30,Ghana,GHA,288,Ghana,2.0,,6312.0,15.0,February
+105,empty,Hong Kong,42,Hong Kong,HKG,344,Hong Kong,1.5,,2994.0,28.0,February
+106,empty,India,288,India,IND,356,India,13.15,Statista,90480.0,21.901140684410645,February
+107,empty,Indonesia,60,Indonesia,IDN,360,Indonesia,11.8,,3954.0,5.084745762711864,February
+108,empty,Ireland,42,Ireland,IRL,372,Ireland,1.5,,12138.0,28.0,February
+109,empty,Italy,30,Italy,ITA,380,Italy,2.5,,3822.0,12.0,February
+110,empty,Japan,66,Japan,JPN,392,Japan,48.45,Statista,4314.0,1.3622291021671826,February
+111,empty,Kenya,84,Kenya,KEN,404,Kenya,8.2,google,9228.0,10.24390243902439,February
+112,empty,Malaysia,96,Malaysia,MYS,458,Malaysia,3.9,Statista,6930.0,24.615384615384617,February
+113,empty,Mexico,18,Mexico,MEX,484,Mexico,25.7,,1746.0,0.7003891050583658,February
+114,empty,New Zealand,30,New Zealand,NZL,554,New Zealand,0.9,google,4464.0,33.333333333333336,February
+115,empty,Nigeria,300,Nigeria,NGA,566,Nigeria,8.4,,38400.0,35.714285714285715,February
+116,empty,Pakistan,66,Pakistan,PAK,586,Pakistan,1.26,google,8358.0,52.38095238095238,February
+117,empty,Republic of Korea,6,Republic of Korea,KOR,410,Republic of Korea,6.05,Statista,1848.0,0.9917355371900827,February
+118,empty,Republic of the Philippines,138,Republic of the Philippines,PHL,608,Republic of the Philippines,7.15,Statista,11472.0,19.3006993006993,February
+119,empty,Singapore,36,Singapore,SGP,702,Singapore,1.3,,3246.0,27.69230769230769,February
+120,empty,South Africa,96,South Africa,ZAF,710,South Africa,8.5,Business Tech,27030.0,11.294117647058824,February
+121,empty,Spain,42,Spain,ESP,724,Spain,8.4,Statista,4080.0,5.0,February
+122,empty,Sri Lanka,6,Sri Lanka,LKA,144,Sri Lanka,0.5,,1698.0,12.0,February
+123,empty,Sweden,6,Sweden,SWE,752,Sweden,2.0,,1422.0,3.0,February
+124,empty,Switzerland,18,Switzerland,CHE,756,Switzerland,0.8,Digital report switzerland,1902.0,22.5,February
+125,empty,Thailand,18,Thailand,THA,764,Thailand,7.35,Statista,2736.0,2.4489795918367347,February
+126,empty,The Netherlands,18,The Netherlands,NLD,528,The Netherlands,2.8,,2970.0,6.428571428571429,February
+127,empty,Turkey,6,Turkey,TUR,792,Turkey,13.65,Statista,1134.0,0.43956043956043955,February
+128,empty,Uganda,6,Uganda,UGA,800,,,,,,February
+129,empty,United Arab Emirates,36,United Arab Emirates,ARE,784,United Arab Emirates,5.21,,4032.0,6.90978886756238,February
+130,empty,United Kingdom,636,United Kingdom,GBR,826,United Kingdom,17.75,Statista,139284.0,35.83098591549296,February
+131,empty,United States,2874,United States,USA,840,United States,64.2,Statista,454626.0,44.76635514018692,February
+132,enthusiasm,Australia,156,Australia,AUS,36,Australia,4.1,Statista,22578.0,38.04878048780488,February
+133,enthusiasm,Belgium,18,Belgium,BEL,56,Belgium,1.0,,2268.0,18.0,February
+134,enthusiasm,Brazil,6,Brazil,BRA,76,Brazil,14.35,Statista,1734.0,0.4181184668989547,February
+135,enthusiasm,Canada,180,Canada,CAN,124,Canada,8.15,Statista,38382.0,22.085889570552148,February
+136,enthusiasm,China,432,China,CHN,156,China,2.0,NY Times,7482.0,216.0,February
+137,enthusiasm,France,42,France,FRA,250,France,8.9,Statista,3192.0,4.719101123595506,February
+138,enthusiasm,Germany,12,Germany,DEU,276,Germany,6.1,Statista,4140.0,1.9672131147540985,February
+139,enthusiasm,Ghana,48,Ghana,GHA,288,Ghana,2.0,,6312.0,24.0,February
+140,enthusiasm,Hong Kong,84,Hong Kong,HKG,344,Hong Kong,1.5,,2994.0,56.0,February
+141,enthusiasm,India,474,India,IND,356,India,13.15,Statista,90480.0,36.045627376425855,February
+142,enthusiasm,Indonesia,42,Indonesia,IDN,360,Indonesia,11.8,,3954.0,3.559322033898305,February
+143,enthusiasm,Ireland,54,Ireland,IRL,372,Ireland,1.5,,12138.0,36.0,February
+144,enthusiasm,Italy,24,Italy,ITA,380,Italy,2.5,,3822.0,9.6,February
+145,enthusiasm,Japan,96,Japan,JPN,392,Japan,48.45,Statista,4314.0,1.981424148606811,February
+146,enthusiasm,Kenya,54,Kenya,KEN,404,Kenya,8.2,google,9228.0,6.585365853658537,February
+147,enthusiasm,Kingdom of Saudi Arabia,24,Kingdom of Saudi Arabia,SAU,682,Kingdom of Saudi Arabia,15.0,Statista,1404.0,1.6,February
+148,enthusiasm,Malaysia,66,Malaysia,MYS,458,Malaysia,3.9,Statista,6930.0,16.923076923076923,February
+149,enthusiasm,Mexico,18,Mexico,MEX,484,Mexico,25.7,,1746.0,0.7003891050583658,February
+150,enthusiasm,New Zealand,24,New Zealand,NZL,554,New Zealand,0.9,google,4464.0,26.666666666666664,February
+151,enthusiasm,Nigeria,348,Nigeria,NGA,566,Nigeria,8.4,,38400.0,41.42857142857142,February
+152,enthusiasm,Pakistan,72,Pakistan,PAK,586,Pakistan,1.26,google,8358.0,57.142857142857146,February
+153,enthusiasm,Republic of Korea,54,Republic of Korea,KOR,410,Republic of Korea,6.05,Statista,1848.0,8.925619834710744,February
+154,enthusiasm,Republic of the Philippines,162,Republic of the Philippines,PHL,608,Republic of the Philippines,7.15,Statista,11472.0,22.657342657342657,February
+155,enthusiasm,Singapore,42,Singapore,SGP,702,Singapore,1.3,,3246.0,32.30769230769231,February
+156,enthusiasm,South Africa,102,South Africa,ZAF,710,South Africa,8.5,Business Tech,27030.0,12.0,February
+157,enthusiasm,Spain,42,Spain,ESP,724,Spain,8.4,Statista,4080.0,5.0,February
+158,enthusiasm,Sweden,36,Sweden,SWE,752,Sweden,2.0,,1422.0,18.0,February
+159,enthusiasm,Switzerland,12,Switzerland,CHE,756,Switzerland,0.8,Digital report switzerland,1902.0,15.0,February
+160,enthusiasm,Thailand,60,Thailand,THA,764,Thailand,7.35,Statista,2736.0,8.16326530612245,February
+161,enthusiasm,The Netherlands,6,The Netherlands,NLD,528,The Netherlands,2.8,,2970.0,2.142857142857143,February
+162,enthusiasm,Turkey,6,Turkey,TUR,792,Turkey,13.65,Statista,1134.0,0.43956043956043955,February
+163,enthusiasm,Uganda,18,Uganda,UGA,800,,,,,,February
+164,enthusiasm,United Arab Emirates,54,United Arab Emirates,ARE,784,United Arab Emirates,5.21,,4032.0,10.36468330134357,February
+165,enthusiasm,United Kingdom,474,United Kingdom,GBR,826,United Kingdom,17.75,Statista,139284.0,26.704225352112676,February
+166,enthusiasm,United States,2082,United States,USA,840,United States,64.2,Statista,454626.0,32.429906542056074,February
+167,fun,Australia,144,Australia,AUS,36,Australia,4.1,Statista,22578.0,35.1219512195122,February
+168,fun,Belgium,30,Belgium,BEL,56,Belgium,1.0,,2268.0,30.0,February
+169,fun,Brazil,6,Brazil,BRA,76,Brazil,14.35,Statista,1734.0,0.4181184668989547,February
+170,fun,Canada,144,Canada,CAN,124,Canada,8.15,Statista,38382.0,17.668711656441715,February
+171,fun,China,240,China,CHN,156,China,2.0,NY Times,7482.0,120.0,February
+172,fun,France,30,France,FRA,250,France,8.9,Statista,3192.0,3.3707865168539324,February
+173,fun,Germany,72,Germany,DEU,276,Germany,6.1,Statista,4140.0,11.80327868852459,February
+174,fun,Ghana,84,Ghana,GHA,288,Ghana,2.0,,6312.0,42.0,February
+175,fun,Hong Kong,48,Hong Kong,HKG,344,Hong Kong,1.5,,2994.0,32.0,February
+176,fun,India,228,India,IND,356,India,13.15,Statista,90480.0,17.338403041825096,February
+177,fun,Indonesia,60,Indonesia,IDN,360,Indonesia,11.8,,3954.0,5.084745762711864,February
+178,fun,Ireland,42,Ireland,IRL,372,Ireland,1.5,,12138.0,28.0,February
+179,fun,Italy,48,Italy,ITA,380,Italy,2.5,,3822.0,19.2,February
+180,fun,Japan,42,Japan,JPN,392,Japan,48.45,Statista,4314.0,0.8668730650154798,February
+181,fun,Kenya,60,Kenya,KEN,404,Kenya,8.2,google,9228.0,7.317073170731708,February
+182,fun,Malaysia,108,Malaysia,MYS,458,Malaysia,3.9,Statista,6930.0,27.692307692307693,February
+183,fun,Mexico,30,Mexico,MEX,484,Mexico,25.7,,1746.0,1.1673151750972763,February
+184,fun,New Zealand,18,New Zealand,NZL,554,New Zealand,0.9,google,4464.0,20.0,February
+185,fun,Nigeria,402,Nigeria,NGA,566,Nigeria,8.4,,38400.0,47.857142857142854,February
+186,fun,Pakistan,12,Pakistan,PAK,586,Pakistan,1.26,google,8358.0,9.523809523809524,February
+187,fun,Republic of Korea,18,Republic of Korea,KOR,410,Republic of Korea,6.05,Statista,1848.0,2.9752066115702482,February
+188,fun,Republic of the Philippines,102,Republic of the Philippines,PHL,608,Republic of the Philippines,7.15,Statista,11472.0,14.265734265734265,February
+189,fun,Singapore,54,Singapore,SGP,702,Singapore,1.3,,3246.0,41.53846153846154,February
+190,fun,South Africa,132,South Africa,ZAF,710,South Africa,8.5,Business Tech,27030.0,15.529411764705882,February
+191,fun,Spain,54,Spain,ESP,724,Spain,8.4,Statista,4080.0,6.428571428571428,February
+192,fun,Sweden,24,Sweden,SWE,752,Sweden,2.0,,1422.0,12.0,February
+193,fun,Switzerland,24,Switzerland,CHE,756,Switzerland,0.8,Digital report switzerland,1902.0,30.0,February
+194,fun,Thailand,30,Thailand,THA,764,Thailand,7.35,Statista,2736.0,4.081632653061225,February
+195,fun,The Netherlands,30,The Netherlands,NLD,528,The Netherlands,2.8,,2970.0,10.714285714285715,February
+196,fun,Turkey,12,Turkey,TUR,792,Turkey,13.65,Statista,1134.0,0.8791208791208791,February
+197,fun,Uganda,18,Uganda,UGA,800,,,,,,February
+198,fun,United Arab Emirates,48,United Arab Emirates,ARE,784,United Arab Emirates,5.21,,4032.0,9.213051823416507,February
+199,fun,United Kingdom,552,United Kingdom,GBR,826,United Kingdom,17.75,Statista,139284.0,31.098591549295776,February
+200,fun,United States,2418,United States,USA,840,United States,64.2,Statista,454626.0,37.66355140186916,February
+201,hate,Australia,774,Australia,AUS,36,Australia,4.1,Statista,22578.0,188.78048780487808,February
+202,hate,Belgium,54,Belgium,BEL,56,Belgium,1.0,,2268.0,54.0,February
+203,hate,Brazil,72,Brazil,BRA,76,Brazil,14.35,Statista,1734.0,5.017421602787457,February
+204,hate,Canada,1116,Canada,CAN,124,Canada,8.15,Statista,38382.0,136.9325153374233,February
+205,hate,China,378,China,CHN,156,China,2.0,NY Times,7482.0,189.0,February
+206,hate,France,108,France,FRA,250,France,8.9,Statista,3192.0,12.134831460674157,February
+207,hate,Germany,96,Germany,DEU,276,Germany,6.1,Statista,4140.0,15.737704918032788,February
+208,hate,Ghana,84,Ghana,GHA,288,Ghana,2.0,,6312.0,42.0,February
+209,hate,Hong Kong,216,Hong Kong,HKG,344,Hong Kong,1.5,,2994.0,144.0,February
+210,hate,India,1290,India,IND,356,India,13.15,Statista,90480.0,98.09885931558935,February
+211,hate,Indonesia,96,Indonesia,IDN,360,Indonesia,11.8,,3954.0,8.135593220338983,February
+212,hate,Ireland,192,Ireland,IRL,372,Ireland,1.5,,12138.0,128.0,February
+213,hate,Italy,108,Italy,ITA,380,Italy,2.5,,3822.0,43.2,February
+214,hate,Japan,210,Japan,JPN,392,Japan,48.45,Statista,4314.0,4.334365325077399,February
+215,hate,Kenya,384,Kenya,KEN,404,Kenya,8.2,google,9228.0,46.82926829268293,February
+216,hate,Kingdom of Saudi Arabia,18,Kingdom of Saudi Arabia,SAU,682,Kingdom of Saudi Arabia,15.0,Statista,1404.0,1.2,February
+217,hate,Malaysia,192,Malaysia,MYS,458,Malaysia,3.9,Statista,6930.0,49.23076923076923,February
+218,hate,Mexico,84,Mexico,MEX,484,Mexico,25.7,,1746.0,3.2684824902723735,February
+219,hate,New Zealand,114,New Zealand,NZL,554,New Zealand,0.9,google,4464.0,126.66666666666666,February
+220,hate,Nigeria,990,Nigeria,NGA,566,Nigeria,8.4,,38400.0,117.85714285714285,February
+221,hate,Pakistan,180,Pakistan,PAK,586,Pakistan,1.26,google,8358.0,142.85714285714286,February
+222,hate,Republic of Korea,90,Republic of Korea,KOR,410,Republic of Korea,6.05,Statista,1848.0,14.87603305785124,February
+223,hate,Republic of the Philippines,420,Republic of the Philippines,PHL,608,Republic of the Philippines,7.15,Statista,11472.0,58.74125874125874,February
+224,hate,Singapore,186,Singapore,SGP,702,Singapore,1.3,,3246.0,143.07692307692307,February
+225,hate,South Africa,360,South Africa,ZAF,710,South Africa,8.5,Business Tech,27030.0,42.35294117647059,February
+226,hate,Spain,66,Spain,ESP,724,Spain,8.4,Statista,4080.0,7.857142857142857,February
+227,hate,Sri Lanka,18,Sri Lanka,LKA,144,Sri Lanka,0.5,,1698.0,36.0,February
+228,hate,Sweden,24,Sweden,SWE,752,Sweden,2.0,,1422.0,12.0,February
+229,hate,Switzerland,72,Switzerland,CHE,756,Switzerland,0.8,Digital report switzerland,1902.0,90.0,February
+230,hate,Thailand,72,Thailand,THA,764,Thailand,7.35,Statista,2736.0,9.795918367346939,February
+231,hate,The Netherlands,96,The Netherlands,NLD,528,The Netherlands,2.8,,2970.0,34.285714285714285,February
+232,hate,Turkey,42,Turkey,TUR,792,Turkey,13.65,Statista,1134.0,3.0769230769230766,February
+233,hate,Uganda,90,Uganda,UGA,800,,,,,,February
+234,hate,United Arab Emirates,108,United Arab Emirates,ARE,784,United Arab Emirates,5.21,,4032.0,20.72936660268714,February
+235,hate,United Kingdom,2154,United Kingdom,GBR,826,United Kingdom,17.75,Statista,139284.0,121.35211267605634,February
+236,hate,United States,16902,United States,USA,840,United States,64.2,Statista,454626.0,263.2710280373832,February
+237,relief,Australia,222,Australia,AUS,36,Australia,4.1,Statista,22578.0,54.146341463414636,February
+238,relief,Belgium,30,Belgium,BEL,56,Belgium,1.0,,2268.0,30.0,February
+239,relief,Brazil,6,Brazil,BRA,76,Brazil,14.35,Statista,1734.0,0.4181184668989547,February
+240,relief,Canada,288,Canada,CAN,124,Canada,8.15,Statista,38382.0,35.33742331288343,February
+241,relief,China,354,China,CHN,156,China,2.0,NY Times,7482.0,177.0,February
+242,relief,France,18,France,FRA,250,France,8.9,Statista,3192.0,2.0224719101123596,February
+243,relief,Germany,48,Germany,DEU,276,Germany,6.1,Statista,4140.0,7.868852459016394,February
+244,relief,Ghana,36,Ghana,GHA,288,Ghana,2.0,,6312.0,18.0,February
+245,relief,Hong Kong,108,Hong Kong,HKG,344,Hong Kong,1.5,,2994.0,72.0,February
+246,relief,India,372,India,IND,356,India,13.15,Statista,90480.0,28.288973384030417,February
+247,relief,Indonesia,54,Indonesia,IDN,360,Indonesia,11.8,,3954.0,4.576271186440677,February
+248,relief,Ireland,66,Ireland,IRL,372,Ireland,1.5,,12138.0,44.0,February
+249,relief,Italy,48,Italy,ITA,380,Italy,2.5,,3822.0,19.2,February
+250,relief,Japan,48,Japan,JPN,392,Japan,48.45,Statista,4314.0,0.9907120743034055,February
+251,relief,Kenya,72,Kenya,KEN,404,Kenya,8.2,google,9228.0,8.78048780487805,February
+252,relief,Kingdom of Saudi Arabia,18,Kingdom of Saudi Arabia,SAU,682,Kingdom of Saudi Arabia,15.0,Statista,1404.0,1.2,February
+253,relief,Malaysia,222,Malaysia,MYS,458,Malaysia,3.9,Statista,6930.0,56.92307692307693,February
+254,relief,Mexico,30,Mexico,MEX,484,Mexico,25.7,,1746.0,1.1673151750972763,February
+255,relief,New Zealand,54,New Zealand,NZL,554,New Zealand,0.9,google,4464.0,60.0,February
+256,relief,Nigeria,282,Nigeria,NGA,566,Nigeria,8.4,,38400.0,33.57142857142857,February
+257,relief,Pakistan,114,Pakistan,PAK,586,Pakistan,1.26,google,8358.0,90.47619047619048,February
+258,relief,Republic of Korea,60,Republic of Korea,KOR,410,Republic of Korea,6.05,Statista,1848.0,9.917355371900827,February
+259,relief,Republic of the Philippines,168,Republic of the Philippines,PHL,608,Republic of the Philippines,7.15,Statista,11472.0,23.496503496503497,February
+260,relief,Singapore,84,Singapore,SGP,702,Singapore,1.3,,3246.0,64.61538461538461,February
+261,relief,South Africa,168,South Africa,ZAF,710,South Africa,8.5,Business Tech,27030.0,19.764705882352942,February
+262,relief,Spain,36,Spain,ESP,724,Spain,8.4,Statista,4080.0,4.285714285714286,February
+263,relief,Sri Lanka,30,Sri Lanka,LKA,144,Sri Lanka,0.5,,1698.0,60.0,February
+264,relief,Sweden,24,Sweden,SWE,752,Sweden,2.0,,1422.0,12.0,February
+265,relief,Switzerland,36,Switzerland,CHE,756,Switzerland,0.8,Digital report switzerland,1902.0,45.0,February
+266,relief,Thailand,72,Thailand,THA,764,Thailand,7.35,Statista,2736.0,9.795918367346939,February
+267,relief,The Netherlands,72,The Netherlands,NLD,528,The Netherlands,2.8,,2970.0,25.714285714285715,February
+268,relief,Turkey,6,Turkey,TUR,792,Turkey,13.65,Statista,1134.0,0.43956043956043955,February
+269,relief,Uganda,48,Uganda,UGA,800,,,,,,February
+270,relief,United Arab Emirates,54,United Arab Emirates,ARE,784,United Arab Emirates,5.21,,4032.0,10.36468330134357,February
+271,relief,United Kingdom,714,United Kingdom,GBR,826,United Kingdom,17.75,Statista,139284.0,40.225352112676056,February
+272,relief,United States,2904,United States,USA,840,United States,64.2,Statista,454626.0,45.23364485981308,February
+273,sadness,Australia,336,Australia,AUS,36,Australia,4.1,Statista,22578.0,81.95121951219512,February
+274,sadness,Belgium,30,Belgium,BEL,56,Belgium,1.0,,2268.0,30.0,February
+275,sadness,Brazil,66,Brazil,BRA,76,Brazil,14.35,Statista,1734.0,4.599303135888502,February
+276,sadness,Canada,438,Canada,CAN,124,Canada,8.15,Statista,38382.0,53.74233128834356,February
+277,sadness,China,312,China,CHN,156,China,2.0,NY Times,7482.0,156.0,February
+278,sadness,France,36,France,FRA,250,France,8.9,Statista,3192.0,4.044943820224719,February
+279,sadness,Germany,36,Germany,DEU,276,Germany,6.1,Statista,4140.0,5.901639344262295,February
+280,sadness,Ghana,36,Ghana,GHA,288,Ghana,2.0,,6312.0,18.0,February
+281,sadness,Hong Kong,144,Hong Kong,HKG,344,Hong Kong,1.5,,2994.0,96.0,February
+282,sadness,India,624,India,IND,356,India,13.15,Statista,90480.0,47.452471482889734,February
+283,sadness,Indonesia,54,Indonesia,IDN,360,Indonesia,11.8,,3954.0,4.576271186440677,February
+284,sadness,Ireland,48,Ireland,IRL,372,Ireland,1.5,,12138.0,32.0,February
+285,sadness,Italy,36,Italy,ITA,380,Italy,2.5,,3822.0,14.4,February
+286,sadness,Japan,90,Japan,JPN,392,Japan,48.45,Statista,4314.0,1.8575851393188854,February
+287,sadness,Kenya,120,Kenya,KEN,404,Kenya,8.2,google,9228.0,14.634146341463415,February
+288,sadness,Kingdom of Saudi Arabia,24,Kingdom of Saudi Arabia,SAU,682,Kingdom of Saudi Arabia,15.0,Statista,1404.0,1.6,February
+289,sadness,Malaysia,180,Malaysia,MYS,458,Malaysia,3.9,Statista,6930.0,46.15384615384615,February
+290,sadness,Mexico,6,Mexico,MEX,484,Mexico,25.7,,1746.0,0.23346303501945526,February
+291,sadness,New Zealand,30,New Zealand,NZL,554,New Zealand,0.9,google,4464.0,33.333333333333336,February
+292,sadness,Nigeria,324,Nigeria,NGA,566,Nigeria,8.4,,38400.0,38.57142857142857,February
+293,sadness,Pakistan,84,Pakistan,PAK,586,Pakistan,1.26,google,8358.0,66.66666666666667,February
+294,sadness,Republic of Korea,60,Republic of Korea,KOR,410,Republic of Korea,6.05,Statista,1848.0,9.917355371900827,February
+295,sadness,Republic of the Philippines,234,Republic of the Philippines,PHL,608,Republic of the Philippines,7.15,Statista,11472.0,32.72727272727273,February
+296,sadness,Singapore,108,Singapore,SGP,702,Singapore,1.3,,3246.0,83.07692307692308,February
+297,sadness,South Africa,126,South Africa,ZAF,710,South Africa,8.5,Business Tech,27030.0,14.823529411764707,February
+298,sadness,Spain,60,Spain,ESP,724,Spain,8.4,Statista,4080.0,7.142857142857142,February
+299,sadness,Sri Lanka,6,Sri Lanka,LKA,144,Sri Lanka,0.5,,1698.0,12.0,February
+300,sadness,Sweden,24,Sweden,SWE,752,Sweden,2.0,,1422.0,12.0,February
+301,sadness,Switzerland,72,Switzerland,CHE,756,Switzerland,0.8,Digital report switzerland,1902.0,90.0,February
+302,sadness,Thailand,36,Thailand,THA,764,Thailand,7.35,Statista,2736.0,4.8979591836734695,February
+303,sadness,The Netherlands,24,The Netherlands,NLD,528,The Netherlands,2.8,,2970.0,8.571428571428571,February
+304,sadness,Turkey,12,Turkey,TUR,792,Turkey,13.65,Statista,1134.0,0.8791208791208791,February
+305,sadness,Uganda,72,Uganda,UGA,800,,,,,,February
+306,sadness,United Arab Emirates,42,United Arab Emirates,ARE,784,United Arab Emirates,5.21,,4032.0,8.061420345489443,February
+307,sadness,United Kingdom,804,United Kingdom,GBR,826,United Kingdom,17.75,Statista,139284.0,45.29577464788732,February
+308,sadness,United States,4248,United States,USA,840,United States,64.2,Statista,454626.0,66.16822429906541,February
+309,surprise,Australia,726,Australia,AUS,36,Australia,4.1,Statista,22578.0,177.07317073170734,February
+310,surprise,Belgium,48,Belgium,BEL,56,Belgium,1.0,,2268.0,48.0,February
+311,surprise,Brazil,54,Brazil,BRA,76,Brazil,14.35,Statista,1734.0,3.7630662020905925,February
+312,surprise,Canada,1068,Canada,CAN,124,Canada,8.15,Statista,38382.0,131.04294478527606,February
+313,surprise,China,816,China,CHN,156,China,2.0,NY Times,7482.0,408.0,February
+314,surprise,France,120,France,FRA,250,France,8.9,Statista,3192.0,13.48314606741573,February
+315,surprise,Germany,108,Germany,DEU,276,Germany,6.1,Statista,4140.0,17.704918032786885,February
+316,surprise,Ghana,108,Ghana,GHA,288,Ghana,2.0,,6312.0,54.0,February
+317,surprise,Hong Kong,300,Hong Kong,HKG,344,Hong Kong,1.5,,2994.0,200.0,February
+318,surprise,India,1338,India,IND,356,India,13.15,Statista,90480.0,101.74904942965779,February
+319,surprise,Indonesia,168,Indonesia,IDN,360,Indonesia,11.8,,3954.0,14.23728813559322,February
+320,surprise,Ireland,156,Ireland,IRL,372,Ireland,1.5,,12138.0,104.0,February
+321,surprise,Italy,102,Italy,ITA,380,Italy,2.5,,3822.0,40.8,February
+322,surprise,Japan,228,Japan,JPN,392,Japan,48.45,Statista,4314.0,4.705882352941177,February
+323,surprise,Kenya,240,Kenya,KEN,404,Kenya,8.2,google,9228.0,29.26829268292683,February
+324,surprise,Kingdom of Saudi Arabia,24,Kingdom of Saudi Arabia,SAU,682,Kingdom of Saudi Arabia,15.0,Statista,1404.0,1.6,February
+325,surprise,Malaysia,342,Malaysia,MYS,458,Malaysia,3.9,Statista,6930.0,87.6923076923077,February
+326,surprise,Mexico,54,Mexico,MEX,484,Mexico,25.7,,1746.0,2.1011673151750974,February
+327,surprise,New Zealand,162,New Zealand,NZL,554,New Zealand,0.9,google,4464.0,180.0,February
+328,surprise,Nigeria,924,Nigeria,NGA,566,Nigeria,8.4,,38400.0,110.0,February
+329,surprise,Pakistan,150,Pakistan,PAK,586,Pakistan,1.26,google,8358.0,119.04761904761905,February
+330,surprise,Republic of Korea,114,Republic of Korea,KOR,410,Republic of Korea,6.05,Statista,1848.0,18.84297520661157,February
+331,surprise,Republic of the Philippines,606,Republic of the Philippines,PHL,608,Republic of the Philippines,7.15,Statista,11472.0,84.75524475524475,February
+332,surprise,Singapore,210,Singapore,SGP,702,Singapore,1.3,,3246.0,161.53846153846152,February
+333,surprise,South Africa,270,South Africa,ZAF,710,South Africa,8.5,Business Tech,27030.0,31.764705882352942,February
+334,surprise,Spain,72,Spain,ESP,724,Spain,8.4,Statista,4080.0,8.571428571428571,February
+335,surprise,Sri Lanka,36,Sri Lanka,LKA,144,Sri Lanka,0.5,,1698.0,72.0,February
+336,surprise,Sweden,90,Sweden,SWE,752,Sweden,2.0,,1422.0,45.0,February
+337,surprise,Switzerland,54,Switzerland,CHE,756,Switzerland,0.8,Digital report switzerland,1902.0,67.5,February
+338,surprise,Thailand,84,Thailand,THA,764,Thailand,7.35,Statista,2736.0,11.428571428571429,February
+339,surprise,The Netherlands,114,The Netherlands,NLD,528,The Netherlands,2.8,,2970.0,40.714285714285715,February
+340,surprise,Turkey,96,Turkey,TUR,792,Turkey,13.65,Statista,1134.0,7.032967032967033,February
+341,surprise,Uganda,96,Uganda,UGA,800,,,,,,February
+342,surprise,United Arab Emirates,78,United Arab Emirates,ARE,784,United Arab Emirates,5.21,,4032.0,14.971209213051823,February
+343,surprise,United Kingdom,2292,United Kingdom,GBR,826,United Kingdom,17.75,Statista,139284.0,129.1267605633803,February
+344,surprise,United States,11220,United States,USA,840,United States,64.2,Statista,454626.0,174.7663551401869,February
+345,worry,Australia,2634,Australia,AUS,36,Australia,4.1,Statista,22578.0,642.439024390244,February
+346,worry,Belgium,276,Belgium,BEL,56,Belgium,1.0,,2268.0,276.0,February
+347,worry,Brazil,228,Brazil,BRA,76,Brazil,14.35,Statista,1734.0,15.88850174216028,February
+348,worry,Canada,3462,Canada,CAN,124,Canada,8.15,Statista,38382.0,424.7852760736196,February
+349,worry,China,1458,China,CHN,156,China,2.0,NY Times,7482.0,729.0,February
+350,worry,France,366,France,FRA,250,France,8.9,Statista,3192.0,41.12359550561798,February
+351,worry,Germany,498,Germany,DEU,276,Germany,6.1,Statista,4140.0,81.63934426229508,February
+352,worry,Ghana,450,Ghana,GHA,288,Ghana,2.0,,6312.0,225.0,February
+353,worry,Hong Kong,780,Hong Kong,HKG,344,Hong Kong,1.5,,2994.0,520.0,February
+354,worry,India,4626,India,IND,356,India,13.15,Statista,90480.0,351.787072243346,February
+355,worry,Indonesia,450,Indonesia,IDN,360,Indonesia,11.8,,3954.0,38.13559322033898,February
+356,worry,Ireland,756,Ireland,IRL,372,Ireland,1.5,,12138.0,504.0,February
+357,worry,Italy,642,Italy,ITA,380,Italy,2.5,,3822.0,256.8,February
+358,worry,Japan,1080,Japan,JPN,392,Japan,48.45,Statista,4314.0,22.291021671826623,February
+359,worry,Kenya,1086,Kenya,KEN,404,Kenya,8.2,google,9228.0,132.4390243902439,February
+360,worry,Kingdom of Saudi Arabia,192,Kingdom of Saudi Arabia,SAU,682,Kingdom of Saudi Arabia,15.0,Statista,1404.0,12.8,February
+361,worry,Malaysia,834,Malaysia,MYS,458,Malaysia,3.9,Statista,6930.0,213.84615384615384,February
+362,worry,Mexico,198,Mexico,MEX,484,Mexico,25.7,,1746.0,7.7042801556420235,February
+363,worry,New Zealand,456,New Zealand,NZL,554,New Zealand,0.9,google,4464.0,506.66666666666663,February
+364,worry,Nigeria,3786,Nigeria,NGA,566,Nigeria,8.4,,38400.0,450.7142857142857,February
+365,worry,Pakistan,708,Pakistan,PAK,586,Pakistan,1.26,google,8358.0,561.9047619047619,February
+366,worry,Republic of Korea,564,Republic of Korea,KOR,410,Republic of Korea,6.05,Statista,1848.0,93.22314049586777,February
+367,worry,Republic of the Philippines,1494,Republic of the Philippines,PHL,608,Republic of the Philippines,7.15,Statista,11472.0,208.95104895104893,February
+368,worry,Singapore,720,Singapore,SGP,702,Singapore,1.3,,3246.0,553.8461538461538,February
+369,worry,South Africa,1290,South Africa,ZAF,710,South Africa,8.5,Business Tech,27030.0,151.76470588235293,February
+370,worry,Spain,330,Spain,ESP,724,Spain,8.4,Statista,4080.0,39.285714285714285,February
+371,worry,Sri Lanka,264,Sri Lanka,LKA,144,Sri Lanka,0.5,,1698.0,528.0,February
+372,worry,Sweden,138,Sweden,SWE,752,Sweden,2.0,,1422.0,69.0,February
+373,worry,Switzerland,330,Switzerland,CHE,756,Switzerland,0.8,Digital report switzerland,1902.0,412.5,February
+374,worry,Thailand,504,Thailand,THA,764,Thailand,7.35,Statista,2736.0,68.57142857142857,February
+375,worry,The Netherlands,234,The Netherlands,NLD,528,The Netherlands,2.8,,2970.0,83.57142857142858,February
+376,worry,Turkey,90,Turkey,TUR,792,Turkey,13.65,Statista,1134.0,6.593406593406593,February
+377,worry,Uganda,498,Uganda,UGA,800,,,,,,February
+378,worry,United Arab Emirates,336,United Arab Emirates,ARE,784,United Arab Emirates,5.21,,4032.0,64.49136276391555,February
+379,worry,United Kingdom,7824,United Kingdom,GBR,826,United Kingdom,17.75,Statista,139284.0,440.7887323943662,February
+380,worry,United States,38496,United States,USA,840,United States,64.2,Statista,454626.0,599.626168224299,February

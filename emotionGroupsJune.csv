@@ -1,0 +1,280 @@
+,emotion_str,country,tweet,date,name,alpha-3,country-code,Country,Users (in million),Source,Total Tweets,tweetpm
+0,anger,Australia,72,June,Australia,AUS,36,Australia,5.0,Statista,22578.0,14.4
+1,anger,Brazil,3,June,Brazil,BRA,76,Brazil,14.35,Statista,1734.0,0.20905923344947736
+2,anger,Canada,111,June,Canada,CAN,124,Canada,8.15,Statista,38382.0,13.61963190184049
+3,anger,China,6,June,China,CHN,156,China,2.0,NY Times,7482.0,3.0
+4,anger,Germany,9,June,Germany,DEU,276,Germany,6.1,Statista,4140.0,1.4754098360655739
+5,anger,Ghana,39,June,Ghana,GHA,288,Ghana,2.0,,6312.0,19.5
+6,anger,India,180,June,India,IND,356,India,13.15,Statista,90480.0,13.688212927756654
+7,anger,Indonesia,12,June,Indonesia,IDN,360,Indonesia,11.8,,3954.0,1.0169491525423728
+8,anger,Ireland,27,June,Ireland,IRL,372,Ireland,2.5,,12138.0,10.8
+9,anger,Italy,6,June,Italy,ITA,380,Italy,2.5,,3822.0,2.4
+10,anger,Japan,21,June,Japan,JPN,392,Japan,48.45,Statista,4314.0,0.4334365325077399
+11,anger,Kenya,15,June,Kenya,KEN,404,Kenya,8.2,google,9228.0,1.829268292682927
+12,anger,Kingdom of Saudi Arabia,3,June,Kingdom of Saudi Arabia,SAU,682,Kingdom of Saudi Arabia,15.0,Statista,1404.0,0.2
+13,anger,Malaysia,9,June,Malaysia,MYS,458,Malaysia,3.9,Statista,6930.0,2.307692307692308
+14,anger,Mexico,6,June,Mexico,MEX,484,Mexico,25.7,,1746.0,0.23346303501945526
+15,anger,New Zealand,18,June,New Zealand,NZL,554,New Zealand,0.9,google,4464.0,20.0
+16,anger,Nigeria,87,June,Nigeria,NGA,566,Nigeria,8.4,,38400.0,10.357142857142856
+17,anger,Pakistan,30,June,Pakistan,PAK,586,Pakistan,2.6,google,8358.0,11.538461538461538
+18,anger,Republic of the Philippines,30,June,Republic of the Philippines,PHL,608,Republic of the Philippines,7.15,Statista,11472.0,4.195804195804196
+19,anger,South Africa,87,June,South Africa,ZAF,710,South Africa,8.5,Business Tech,27030.0,10.235294117647058
+20,anger,Spain,9,June,Spain,ESP,724,Spain,8.4,Statista,4080.0,1.0714285714285714
+21,anger,Thailand,3,June,Thailand,THA,764,Thailand,7.35,Statista,2736.0,0.40816326530612246
+22,anger,The Netherlands,9,June,The Netherlands,NLD,528,The Netherlands,2.8,,2970.0,3.2142857142857144
+23,anger,Turkey,6,June,Turkey,TUR,792,Turkey,13.65,Statista,1134.0,0.43956043956043955
+24,anger,Uganda,18,June,Uganda,UGA,800,,,,,
+25,anger,United Arab Emirates,12,June,United Arab Emirates,ARE,784,United Arab Emirates,5.21,,4032.0,2.3032629558541267
+26,anger,United Kingdom,441,June,United Kingdom,GBR,826,United Kingdom,17.75,Statista,139284.0,24.845070422535212
+27,anger,United States,1641,June,United States,USA,840,United States,64.2,Statista,454626.0,25.5607476635514
+52,depressed,Australia,138,June,Australia,AUS,36,Australia,5.0,Statista,22578.0,27.6
+53,depressed,Belgium,15,June,Belgium,BEL,56,Belgium,1.0,,2268.0,15.0
+54,depressed,Brazil,24,June,Brazil,BRA,76,Brazil,14.35,Statista,1734.0,1.6724738675958188
+55,depressed,Canada,546,June,Canada,CAN,124,Canada,8.15,Statista,38382.0,66.99386503067484
+56,depressed,China,18,June,China,CHN,156,China,2.0,NY Times,7482.0,9.0
+57,depressed,France,33,June,France,FRA,250,France,8.9,Statista,3192.0,3.7078651685393256
+58,depressed,Germany,51,June,Germany,DEU,276,Germany,6.1,Statista,4140.0,8.360655737704919
+59,depressed,Ghana,45,June,Ghana,GHA,288,Ghana,2.0,,6312.0,22.5
+60,depressed,Hong Kong,9,June,Hong Kong,HKG,344,Hong Kong,1.5,,2994.0,6.0
+61,depressed,India,1212,June,India,IND,356,India,13.15,Statista,90480.0,92.16730038022814
+62,depressed,Indonesia,87,June,Indonesia,IDN,360,Indonesia,11.8,,3954.0,7.372881355932203
+63,depressed,Ireland,246,June,Ireland,IRL,372,Ireland,2.5,,12138.0,98.4
+64,depressed,Italy,33,June,Italy,ITA,380,Italy,2.5,,3822.0,13.2
+65,depressed,Japan,21,June,Japan,JPN,392,Japan,48.45,Statista,4314.0,0.4334365325077399
+66,depressed,Kenya,69,June,Kenya,KEN,404,Kenya,8.2,google,9228.0,8.414634146341465
+67,depressed,Kingdom of Saudi Arabia,30,June,Kingdom of Saudi Arabia,SAU,682,Kingdom of Saudi Arabia,15.0,Statista,1404.0,2.0
+68,depressed,Malaysia,60,June,Malaysia,MYS,458,Malaysia,3.9,Statista,6930.0,15.384615384615385
+69,depressed,Mexico,12,June,Mexico,MEX,484,Mexico,25.7,,1746.0,0.4669260700389105
+70,depressed,New Zealand,57,June,New Zealand,NZL,554,New Zealand,0.9,google,4464.0,63.33333333333333
+71,depressed,Nigeria,270,June,Nigeria,NGA,566,Nigeria,8.4,,38400.0,32.14285714285714
+72,depressed,Pakistan,147,June,Pakistan,PAK,586,Pakistan,2.6,google,8358.0,56.53846153846153
+73,depressed,Republic of the Philippines,156,June,Republic of the Philippines,PHL,608,Republic of the Philippines,7.15,Statista,11472.0,21.818181818181817
+74,depressed,Singapore,42,June,Singapore,SGP,702,Singapore,1.3,,3246.0,32.30769230769231
+75,depressed,South Africa,339,June,South Africa,ZAF,710,South Africa,8.5,Business Tech,27030.0,39.88235294117647
+76,depressed,Spain,45,June,Spain,ESP,724,Spain,8.4,Statista,4080.0,5.357142857142857
+77,depressed,Sri Lanka,9,June,Sri Lanka,LKA,144,Sri Lanka,0.5,,1698.0,18.0
+78,depressed,Sweden,9,June,Sweden,SWE,752,Sweden,2.0,,1422.0,4.5
+79,depressed,Switzerland,21,June,Switzerland,CHE,756,Switzerland,0.8,Digital report switzerland,1902.0,26.25
+80,depressed,Thailand,18,June,Thailand,THA,764,Thailand,7.35,Statista,2736.0,2.4489795918367347
+81,depressed,The Netherlands,27,June,The Netherlands,NLD,528,The Netherlands,2.8,,2970.0,9.642857142857144
+82,depressed,Turkey,9,June,Turkey,TUR,792,Turkey,13.65,Statista,1134.0,0.6593406593406593
+83,depressed,Uganda,75,June,Uganda,UGA,800,,,,,
+84,depressed,United Arab Emirates,45,June,United Arab Emirates,ARE,784,United Arab Emirates,5.21,,4032.0,8.637236084452976
+85,depressed,United Kingdom,3426,June,United Kingdom,GBR,826,United Kingdom,17.75,Statista,139284.0,193.01408450704224
+86,depressed,United States,4686,June,United States,USA,840,United States,64.2,Statista,454626.0,72.99065420560747
+123,enthusiasm,Australia,147,June,Australia,AUS,36,Australia,5.0,Statista,22578.0,29.4
+124,enthusiasm,Belgium,18,June,Belgium,BEL,56,Belgium,1.0,,2268.0,18.0
+125,enthusiasm,Brazil,6,June,Brazil,BRA,76,Brazil,14.35,Statista,1734.0,0.4181184668989547
+126,enthusiasm,Canada,363,June,Canada,CAN,124,Canada,8.15,Statista,38382.0,44.5398773006135
+127,enthusiasm,China,12,June,China,CHN,156,China,2.0,NY Times,7482.0,6.0
+128,enthusiasm,France,15,June,France,FRA,250,France,8.9,Statista,3192.0,1.6853932584269662
+129,enthusiasm,Germany,36,June,Germany,DEU,276,Germany,6.1,Statista,4140.0,5.901639344262295
+130,enthusiasm,Ghana,72,June,Ghana,GHA,288,Ghana,2.0,,6312.0,36.0
+131,enthusiasm,Hong Kong,12,June,Hong Kong,HKG,344,Hong Kong,1.5,,2994.0,8.0
+132,enthusiasm,India,1734,June,India,IND,356,India,13.15,Statista,90480.0,131.86311787072242
+133,enthusiasm,Indonesia,45,June,Indonesia,IDN,360,Indonesia,11.8,,3954.0,3.813559322033898
+134,enthusiasm,Ireland,84,June,Ireland,IRL,372,Ireland,2.5,,12138.0,33.6
+135,enthusiasm,Italy,24,June,Italy,ITA,380,Italy,2.5,,3822.0,9.6
+136,enthusiasm,Japan,27,June,Japan,JPN,392,Japan,48.45,Statista,4314.0,0.5572755417956656
+137,enthusiasm,Kenya,96,June,Kenya,KEN,404,Kenya,8.2,google,9228.0,11.707317073170733
+138,enthusiasm,Kingdom of Saudi Arabia,18,June,Kingdom of Saudi Arabia,SAU,682,Kingdom of Saudi Arabia,15.0,Statista,1404.0,1.2
+139,enthusiasm,Malaysia,33,June,Malaysia,MYS,458,Malaysia,3.9,Statista,6930.0,8.461538461538462
+140,enthusiasm,Mexico,18,June,Mexico,MEX,484,Mexico,25.7,,1746.0,0.7003891050583658
+141,enthusiasm,New Zealand,27,June,New Zealand,NZL,554,New Zealand,0.9,google,4464.0,30.0
+142,enthusiasm,Nigeria,300,June,Nigeria,NGA,566,Nigeria,8.4,,38400.0,35.714285714285715
+143,enthusiasm,Pakistan,210,June,Pakistan,PAK,586,Pakistan,2.6,google,8358.0,80.76923076923076
+144,enthusiasm,Republic of Korea,6,June,Republic of Korea,KOR,410,Republic of Korea,6.05,Statista,1848.0,0.9917355371900827
+145,enthusiasm,Republic of the Philippines,198,June,Republic of the Philippines,PHL,608,Republic of the Philippines,7.15,Statista,11472.0,27.69230769230769
+146,enthusiasm,Singapore,27,June,Singapore,SGP,702,Singapore,1.3,,3246.0,20.76923076923077
+147,enthusiasm,South Africa,273,June,South Africa,ZAF,710,South Africa,8.5,Business Tech,27030.0,32.11764705882353
+148,enthusiasm,Spain,27,June,Spain,ESP,724,Spain,8.4,Statista,4080.0,3.214285714285714
+149,enthusiasm,Sri Lanka,9,June,Sri Lanka,LKA,144,Sri Lanka,0.5,,1698.0,18.0
+150,enthusiasm,Sweden,18,June,Sweden,SWE,752,Sweden,2.0,,1422.0,9.0
+151,enthusiasm,Switzerland,12,June,Switzerland,CHE,756,Switzerland,0.8,Digital report switzerland,1902.0,15.0
+152,enthusiasm,Thailand,24,June,Thailand,THA,764,Thailand,7.35,Statista,2736.0,3.2653061224489797
+153,enthusiasm,The Netherlands,18,June,The Netherlands,NLD,528,The Netherlands,2.8,,2970.0,6.428571428571429
+154,enthusiasm,Turkey,3,June,Turkey,TUR,792,Turkey,13.65,Statista,1134.0,0.21978021978021978
+155,enthusiasm,Uganda,57,June,Uganda,UGA,800,,,,,
+156,enthusiasm,United Arab Emirates,48,June,United Arab Emirates,ARE,784,United Arab Emirates,5.21,,4032.0,9.213051823416507
+157,enthusiasm,United Kingdom,1941,June,United Kingdom,GBR,826,United Kingdom,17.75,Statista,139284.0,109.35211267605634
+158,enthusiasm,United States,3816,June,United States,USA,840,United States,64.2,Statista,454626.0,59.4392523364486
+195,hate,Australia,555,June,Australia,AUS,36,Australia,5.0,Statista,22578.0,111.0
+196,hate,Belgium,45,June,Belgium,BEL,56,Belgium,1.0,,2268.0,45.0
+197,hate,Brazil,60,June,Brazil,BRA,76,Brazil,14.35,Statista,1734.0,4.181184668989547
+198,hate,Canada,1170,June,Canada,CAN,124,Canada,8.15,Statista,38382.0,143.55828220858896
+199,hate,China,33,June,China,CHN,156,China,2.0,NY Times,7482.0,16.5
+200,hate,France,48,June,France,FRA,250,France,8.9,Statista,3192.0,5.393258426966292
+201,hate,Germany,99,June,Germany,DEU,276,Germany,6.1,Statista,4140.0,16.229508196721312
+202,hate,Ghana,78,June,Ghana,GHA,288,Ghana,2.0,,6312.0,39.0
+203,hate,Hong Kong,36,June,Hong Kong,HKG,344,Hong Kong,1.5,,2994.0,24.0
+204,hate,India,2829,June,India,IND,356,India,13.15,Statista,90480.0,215.13307984790873
+205,hate,Indonesia,42,June,Indonesia,IDN,360,Indonesia,11.8,,3954.0,3.559322033898305
+206,hate,Ireland,312,June,Ireland,IRL,372,Ireland,2.5,,12138.0,124.8
+207,hate,Italy,57,June,Italy,ITA,380,Italy,2.5,,3822.0,22.8
+208,hate,Japan,24,June,Japan,JPN,392,Japan,48.45,Statista,4314.0,0.49535603715170273
+209,hate,Kenya,168,June,Kenya,KEN,404,Kenya,8.2,google,9228.0,20.48780487804878
+210,hate,Kingdom of Saudi Arabia,48,June,Kingdom of Saudi Arabia,SAU,682,Kingdom of Saudi Arabia,15.0,Statista,1404.0,3.2
+211,hate,Malaysia,75,June,Malaysia,MYS,458,Malaysia,3.9,Statista,6930.0,19.23076923076923
+212,hate,Mexico,33,June,Mexico,MEX,484,Mexico,25.7,,1746.0,1.284046692607004
+213,hate,New Zealand,144,June,New Zealand,NZL,554,New Zealand,0.9,google,4464.0,160.0
+214,hate,Nigeria,546,June,Nigeria,NGA,566,Nigeria,8.4,,38400.0,65.0
+215,hate,Pakistan,354,June,Pakistan,PAK,586,Pakistan,2.6,google,8358.0,136.15384615384616
+216,hate,Republic of Korea,9,June,Republic of Korea,KOR,410,Republic of Korea,6.05,Statista,1848.0,1.4876033057851241
+217,hate,Republic of the Philippines,153,June,Republic of the Philippines,PHL,608,Republic of the Philippines,7.15,Statista,11472.0,21.398601398601397
+218,hate,Singapore,48,June,Singapore,SGP,702,Singapore,1.3,,3246.0,36.92307692307692
+219,hate,South Africa,798,June,South Africa,ZAF,710,South Africa,8.5,Business Tech,27030.0,93.88235294117646
+220,hate,Spain,93,June,Spain,ESP,724,Spain,8.4,Statista,4080.0,11.071428571428571
+221,hate,Sri Lanka,18,June,Sri Lanka,LKA,144,Sri Lanka,0.5,,1698.0,36.0
+222,hate,Sweden,39,June,Sweden,SWE,752,Sweden,2.0,,1422.0,19.5
+223,hate,Switzerland,21,June,Switzerland,CHE,756,Switzerland,0.8,Digital report switzerland,1902.0,26.25
+224,hate,Thailand,27,June,Thailand,THA,764,Thailand,7.35,Statista,2736.0,3.673469387755102
+225,hate,The Netherlands,75,June,The Netherlands,NLD,528,The Netherlands,2.8,,2970.0,26.78571428571429
+226,hate,Turkey,6,June,Turkey,TUR,792,Turkey,13.65,Statista,1134.0,0.43956043956043955
+227,hate,Uganda,81,June,Uganda,UGA,800,,,,,
+228,hate,United Arab Emirates,42,June,United Arab Emirates,ARE,784,United Arab Emirates,5.21,,4032.0,8.061420345489443
+229,hate,United Kingdom,4815,June,United Kingdom,GBR,826,United Kingdom,17.75,Statista,139284.0,271.2676056338028
+230,hate,United States,19623,June,United States,USA,840,United States,64.2,Statista,454626.0,305.6542056074766
+231,relief,Australia,285,June,Australia,AUS,36,Australia,5.0,Statista,22578.0,57.0
+232,relief,Belgium,57,June,Belgium,BEL,56,Belgium,1.0,,2268.0,57.0
+233,relief,Brazil,12,June,Brazil,BRA,76,Brazil,14.35,Statista,1734.0,0.8362369337979094
+234,relief,Canada,732,June,Canada,CAN,124,Canada,8.15,Statista,38382.0,89.8159509202454
+235,relief,China,30,June,China,CHN,156,China,2.0,NY Times,7482.0,15.0
+236,relief,France,39,June,France,FRA,250,France,8.9,Statista,3192.0,4.382022471910112
+237,relief,Germany,54,June,Germany,DEU,276,Germany,6.1,Statista,4140.0,8.852459016393443
+238,relief,Ghana,54,June,Ghana,GHA,288,Ghana,2.0,,6312.0,27.0
+239,relief,Hong Kong,6,June,Hong Kong,HKG,344,Hong Kong,1.5,,2994.0,4.0
+240,relief,India,1554,June,India,IND,356,India,13.15,Statista,90480.0,118.17490494296578
+241,relief,Indonesia,60,June,Indonesia,IDN,360,Indonesia,11.8,,3954.0,5.084745762711864
+242,relief,Ireland,243,June,Ireland,IRL,372,Ireland,2.5,,12138.0,97.2
+243,relief,Italy,33,June,Italy,ITA,380,Italy,2.5,,3822.0,13.2
+244,relief,Japan,24,June,Japan,JPN,392,Japan,48.45,Statista,4314.0,0.49535603715170273
+245,relief,Kenya,63,June,Kenya,KEN,404,Kenya,8.2,google,9228.0,7.682926829268293
+246,relief,Kingdom of Saudi Arabia,12,June,Kingdom of Saudi Arabia,SAU,682,Kingdom of Saudi Arabia,15.0,Statista,1404.0,0.8
+247,relief,Malaysia,96,June,Malaysia,MYS,458,Malaysia,3.9,Statista,6930.0,24.615384615384617
+248,relief,Mexico,12,June,Mexico,MEX,484,Mexico,25.7,,1746.0,0.4669260700389105
+249,relief,New Zealand,75,June,New Zealand,NZL,554,New Zealand,0.9,google,4464.0,83.33333333333333
+250,relief,Nigeria,342,June,Nigeria,NGA,566,Nigeria,8.4,,38400.0,40.714285714285715
+251,relief,Pakistan,294,June,Pakistan,PAK,586,Pakistan,2.6,google,8358.0,113.07692307692307
+252,relief,Republic of Korea,3,June,Republic of Korea,KOR,410,Republic of Korea,6.05,Statista,1848.0,0.49586776859504134
+253,relief,Republic of the Philippines,177,June,Republic of the Philippines,PHL,608,Republic of the Philippines,7.15,Statista,11472.0,24.755244755244753
+254,relief,Singapore,36,June,Singapore,SGP,702,Singapore,1.3,,3246.0,27.69230769230769
+255,relief,South Africa,366,June,South Africa,ZAF,710,South Africa,8.5,Business Tech,27030.0,43.05882352941177
+256,relief,Spain,42,June,Spain,ESP,724,Spain,8.4,Statista,4080.0,5.0
+257,relief,Sri Lanka,15,June,Sri Lanka,LKA,144,Sri Lanka,0.5,,1698.0,30.0
+258,relief,Sweden,15,June,Sweden,SWE,752,Sweden,2.0,,1422.0,7.5
+259,relief,Switzerland,33,June,Switzerland,CHE,756,Switzerland,0.8,Digital report switzerland,1902.0,41.25
+260,relief,Thailand,33,June,Thailand,THA,764,Thailand,7.35,Statista,2736.0,4.4897959183673475
+261,relief,The Netherlands,33,June,The Netherlands,NLD,528,The Netherlands,2.8,,2970.0,11.785714285714286
+262,relief,Turkey,18,June,Turkey,TUR,792,Turkey,13.65,Statista,1134.0,1.3186813186813187
+263,relief,Uganda,84,June,Uganda,UGA,800,,,,,
+264,relief,United Arab Emirates,75,June,United Arab Emirates,ARE,784,United Arab Emirates,5.21,,4032.0,14.395393474088293
+265,relief,United Kingdom,3795,June,United Kingdom,GBR,826,United Kingdom,17.75,Statista,139284.0,213.80281690140845
+266,relief,United States,5685,June,United States,USA,840,United States,64.2,Statista,454626.0,88.55140186915888
+267,sadness,Australia,357,June,Australia,AUS,36,Australia,5.0,Statista,22578.0,71.4
+268,sadness,Belgium,39,June,Belgium,BEL,56,Belgium,1.0,,2268.0,39.0
+269,sadness,Brazil,45,June,Brazil,BRA,76,Brazil,14.35,Statista,1734.0,3.1358885017421603
+270,sadness,Canada,633,June,Canada,CAN,124,Canada,8.15,Statista,38382.0,77.66871165644172
+271,sadness,China,33,June,China,CHN,156,China,2.0,NY Times,7482.0,16.5
+272,sadness,France,78,June,France,FRA,250,France,8.9,Statista,3192.0,8.764044943820224
+273,sadness,Germany,57,June,Germany,DEU,276,Germany,6.1,Statista,4140.0,9.344262295081968
+274,sadness,Ghana,45,June,Ghana,GHA,288,Ghana,2.0,,6312.0,22.5
+275,sadness,Hong Kong,6,June,Hong Kong,HKG,344,Hong Kong,1.5,,2994.0,4.0
+276,sadness,India,2082,June,India,IND,356,India,13.15,Statista,90480.0,158.32699619771861
+277,sadness,Indonesia,72,June,Indonesia,IDN,360,Indonesia,11.8,,3954.0,6.101694915254237
+278,sadness,Ireland,216,June,Ireland,IRL,372,Ireland,2.5,,12138.0,86.4
+279,sadness,Italy,39,June,Italy,ITA,380,Italy,2.5,,3822.0,15.6
+280,sadness,Japan,45,June,Japan,JPN,392,Japan,48.45,Statista,4314.0,0.9287925696594427
+281,sadness,Kenya,117,June,Kenya,KEN,404,Kenya,8.2,google,9228.0,14.26829268292683
+282,sadness,Kingdom of Saudi Arabia,21,June,Kingdom of Saudi Arabia,SAU,682,Kingdom of Saudi Arabia,15.0,Statista,1404.0,1.4
+283,sadness,Malaysia,30,June,Malaysia,MYS,458,Malaysia,3.9,Statista,6930.0,7.6923076923076925
+284,sadness,Mexico,15,June,Mexico,MEX,484,Mexico,25.7,,1746.0,0.5836575875486382
+285,sadness,New Zealand,75,June,New Zealand,NZL,554,New Zealand,0.9,google,4464.0,83.33333333333333
+286,sadness,Nigeria,372,June,Nigeria,NGA,566,Nigeria,8.4,,38400.0,44.285714285714285
+287,sadness,Pakistan,171,June,Pakistan,PAK,586,Pakistan,2.6,google,8358.0,65.76923076923077
+288,sadness,Republic of Korea,18,June,Republic of Korea,KOR,410,Republic of Korea,6.05,Statista,1848.0,2.9752066115702482
+289,sadness,Republic of the Philippines,141,June,Republic of the Philippines,PHL,608,Republic of the Philippines,7.15,Statista,11472.0,19.72027972027972
+290,sadness,Singapore,24,June,Singapore,SGP,702,Singapore,1.3,,3246.0,18.46153846153846
+291,sadness,South Africa,621,June,South Africa,ZAF,710,South Africa,8.5,Business Tech,27030.0,73.05882352941177
+292,sadness,Spain,57,June,Spain,ESP,724,Spain,8.4,Statista,4080.0,6.785714285714286
+293,sadness,Sri Lanka,12,June,Sri Lanka,LKA,144,Sri Lanka,0.5,,1698.0,24.0
+294,sadness,Sweden,12,June,Sweden,SWE,752,Sweden,2.0,,1422.0,6.0
+295,sadness,Switzerland,24,June,Switzerland,CHE,756,Switzerland,0.8,Digital report switzerland,1902.0,30.0
+296,sadness,Thailand,21,June,Thailand,THA,764,Thailand,7.35,Statista,2736.0,2.857142857142857
+297,sadness,The Netherlands,48,June,The Netherlands,NLD,528,The Netherlands,2.8,,2970.0,17.142857142857142
+298,sadness,Turkey,6,June,Turkey,TUR,792,Turkey,13.65,Statista,1134.0,0.43956043956043955
+299,sadness,Uganda,66,June,Uganda,UGA,800,,,,,
+300,sadness,United Arab Emirates,45,June,United Arab Emirates,ARE,784,United Arab Emirates,5.21,,4032.0,8.637236084452976
+301,sadness,United Kingdom,3771,June,United Kingdom,GBR,826,United Kingdom,17.75,Statista,139284.0,212.45070422535213
+302,sadness,United States,9402,June,United States,USA,840,United States,64.2,Statista,454626.0,146.4485981308411
+303,surprise,Australia,615,June,Australia,AUS,36,Australia,5.0,Statista,22578.0,123.0
+304,surprise,Belgium,60,June,Belgium,BEL,56,Belgium,1.0,,2268.0,60.0
+305,surprise,Brazil,57,June,Brazil,BRA,76,Brazil,14.35,Statista,1734.0,3.97212543554007
+306,surprise,Canada,1314,June,Canada,CAN,124,Canada,8.15,Statista,38382.0,161.22699386503066
+307,surprise,China,45,June,China,CHN,156,China,2.0,NY Times,7482.0,22.5
+308,surprise,France,63,June,France,FRA,250,France,8.9,Statista,3192.0,7.078651685393258
+309,surprise,Germany,105,June,Germany,DEU,276,Germany,6.1,Statista,4140.0,17.213114754098363
+310,surprise,Ghana,168,June,Ghana,GHA,288,Ghana,2.0,,6312.0,84.0
+311,surprise,Hong Kong,24,June,Hong Kong,HKG,344,Hong Kong,1.5,,2994.0,16.0
+312,surprise,India,3087,June,India,IND,356,India,13.15,Statista,90480.0,234.7528517110266
+313,surprise,Indonesia,141,June,Indonesia,IDN,360,Indonesia,11.8,,3954.0,11.94915254237288
+314,surprise,Ireland,417,June,Ireland,IRL,372,Ireland,2.5,,12138.0,166.8
+315,surprise,Italy,69,June,Italy,ITA,380,Italy,2.5,,3822.0,27.6
+316,surprise,Japan,72,June,Japan,JPN,392,Japan,48.45,Statista,4314.0,1.4860681114551082
+317,surprise,Kenya,264,June,Kenya,KEN,404,Kenya,8.2,google,9228.0,32.19512195121951
+318,surprise,Kingdom of Saudi Arabia,51,June,Kingdom of Saudi Arabia,SAU,682,Kingdom of Saudi Arabia,15.0,Statista,1404.0,3.4
+319,surprise,Malaysia,123,June,Malaysia,MYS,458,Malaysia,3.9,Statista,6930.0,31.53846153846154
+320,surprise,Mexico,54,June,Mexico,MEX,484,Mexico,25.7,,1746.0,2.1011673151750974
+321,surprise,New Zealand,171,June,New Zealand,NZL,554,New Zealand,0.9,google,4464.0,190.0
+322,surprise,Nigeria,708,June,Nigeria,NGA,566,Nigeria,8.4,,38400.0,84.28571428571428
+323,surprise,Pakistan,354,June,Pakistan,PAK,586,Pakistan,2.6,google,8358.0,136.15384615384616
+324,surprise,Republic of Korea,39,June,Republic of Korea,KOR,410,Republic of Korea,6.05,Statista,1848.0,6.446280991735537
+325,surprise,Republic of the Philippines,282,June,Republic of the Philippines,PHL,608,Republic of the Philippines,7.15,Statista,11472.0,39.44055944055944
+326,surprise,Singapore,63,June,Singapore,SGP,702,Singapore,1.3,,3246.0,48.46153846153846
+327,surprise,South Africa,801,June,South Africa,ZAF,710,South Africa,8.5,Business Tech,27030.0,94.23529411764706
+328,surprise,Spain,132,June,Spain,ESP,724,Spain,8.4,Statista,4080.0,15.714285714285714
+329,surprise,Sri Lanka,27,June,Sri Lanka,LKA,144,Sri Lanka,0.5,,1698.0,54.0
+330,surprise,Sweden,36,June,Sweden,SWE,752,Sweden,2.0,,1422.0,18.0
+331,surprise,Switzerland,45,June,Switzerland,CHE,756,Switzerland,0.8,Digital report switzerland,1902.0,56.25
+332,surprise,Thailand,69,June,Thailand,THA,764,Thailand,7.35,Statista,2736.0,9.387755102040817
+333,surprise,The Netherlands,51,June,The Netherlands,NLD,528,The Netherlands,2.8,,2970.0,18.214285714285715
+334,surprise,Turkey,57,June,Turkey,TUR,792,Turkey,13.65,Statista,1134.0,4.175824175824176
+335,surprise,Uganda,150,June,Uganda,UGA,800,,,,,
+336,surprise,United Arab Emirates,102,June,United Arab Emirates,ARE,784,United Arab Emirates,5.21,,4032.0,19.57773512476008
+337,surprise,United Kingdom,5043,June,United Kingdom,GBR,826,United Kingdom,17.75,Statista,139284.0,284.11267605633805
+338,surprise,United States,13512,June,United States,USA,840,United States,64.2,Statista,454626.0,210.46728971962617
+339,worry,Australia,1500,June,Australia,AUS,36,Australia,5.0,Statista,22578.0,300.0
+340,worry,Belgium,147,June,Belgium,BEL,56,Belgium,1.0,,2268.0,147.0
+341,worry,Brazil,138,June,Brazil,BRA,76,Brazil,14.35,Statista,1734.0,9.61672473867596
+342,worry,Canada,3255,June,Canada,CAN,124,Canada,8.15,Statista,38382.0,399.3865030674846
+343,worry,China,159,June,China,CHN,156,China,2.0,NY Times,7482.0,79.5
+344,worry,France,171,June,France,FRA,250,France,8.9,Statista,3192.0,19.213483146067414
+345,worry,Germany,207,June,Germany,DEU,276,Germany,6.1,Statista,4140.0,33.9344262295082
+346,worry,Ghana,312,June,Ghana,GHA,288,Ghana,2.0,,6312.0,156.0
+347,worry,Hong Kong,60,June,Hong Kong,HKG,344,Hong Kong,1.5,,2994.0,40.0
+348,worry,India,10923,June,India,IND,356,India,13.15,Statista,90480.0,830.6463878326996
+349,worry,Indonesia,177,June,Indonesia,IDN,360,Indonesia,11.8,,3954.0,14.999999999999998
+350,worry,Ireland,948,June,Ireland,IRL,372,Ireland,2.5,,12138.0,379.2
+351,worry,Italy,156,June,Italy,ITA,380,Italy,2.5,,3822.0,62.4
+352,worry,Japan,153,June,Japan,JPN,392,Japan,48.45,Statista,4314.0,3.157894736842105
+353,worry,Kenya,657,June,Kenya,KEN,404,Kenya,8.2,google,9228.0,80.1219512195122
+354,worry,Kingdom of Saudi Arabia,99,June,Kingdom of Saudi Arabia,SAU,682,Kingdom of Saudi Arabia,15.0,Statista,1404.0,6.6
+355,worry,Malaysia,255,June,Malaysia,MYS,458,Malaysia,3.9,Statista,6930.0,65.38461538461539
+356,worry,Mexico,126,June,Mexico,MEX,484,Mexico,25.7,,1746.0,4.902723735408561
+357,worry,New Zealand,276,June,New Zealand,NZL,554,New Zealand,0.9,google,4464.0,306.6666666666667
+358,worry,Nigeria,1758,June,Nigeria,NGA,566,Nigeria,8.4,,38400.0,209.28571428571428
+359,worry,Pakistan,1257,June,Pakistan,PAK,586,Pakistan,2.6,google,8358.0,483.46153846153845
+360,worry,Republic of Korea,54,June,Republic of Korea,KOR,410,Republic of Korea,6.05,Statista,1848.0,8.925619834710744
+361,worry,Republic of the Philippines,738,June,Republic of the Philippines,PHL,608,Republic of the Philippines,7.15,Statista,11472.0,103.21678321678321
+362,worry,Singapore,189,June,Singapore,SGP,702,Singapore,1.3,,3246.0,145.3846153846154
+363,worry,South Africa,1863,June,South Africa,ZAF,710,South Africa,8.5,Business Tech,27030.0,219.1764705882353
+364,worry,Spain,204,June,Spain,ESP,724,Spain,8.4,Statista,4080.0,24.285714285714285
+365,worry,Sri Lanka,57,June,Sri Lanka,LKA,144,Sri Lanka,0.5,,1698.0,114.0
+366,worry,Sweden,93,June,Sweden,SWE,752,Sweden,2.0,,1422.0,46.5
+367,worry,Switzerland,90,June,Switzerland,CHE,756,Switzerland,0.8,Digital report switzerland,1902.0,112.5
+368,worry,Thailand,201,June,Thailand,THA,764,Thailand,7.35,Statista,2736.0,27.346938775510207
+369,worry,The Netherlands,168,June,The Netherlands,NLD,528,The Netherlands,2.8,,2970.0,60.00000000000001
+370,worry,Turkey,81,June,Turkey,TUR,792,Turkey,13.65,Statista,1134.0,5.934065934065934
+371,worry,Uganda,390,June,Uganda,UGA,800,,,,,
+372,worry,United Arab Emirates,195,June,United Arab Emirates,ARE,784,United Arab Emirates,5.21,,4032.0,37.42802303262956
+373,worry,United Kingdom,13143,June,United Kingdom,GBR,826,United Kingdom,17.75,Statista,139284.0,740.4507042253521
+374,worry,United States,32421,June,United States,USA,840,United States,64.2,Statista,454626.0,505.0
